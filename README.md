@@ -36,7 +36,7 @@ We warmly welcome contributions from the community! If you have suggestions, imp
 
 ## License
 
-The code in this repository is released under [our terms and conditions](https://raiday.ai/terms-of-service/), making it accessible for a wide range of uses.
+The code in this repository is released under [our terms and conditions of licensing](https://raiday.ai/terms-of-service/), making it accessible for a wide range of uses.
 
 Thank you for visiting the RAIDAY AI public GitHub repository. We're excited to see how you'll leverage these AI-generated tools to create, innovate, and solve the challenges of tomorrow.
 
