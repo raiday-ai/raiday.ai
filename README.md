@@ -14,7 +14,7 @@ At RAIDAY AI, we believe in the power of AI to build more efficient, intelligent
 
 ## Our AI-Driven Approach
 
-### Building AI with AI
+### Building AI with AI and our decade of expertise
 
 One of the core principles behind RAIDAY AI is our unique approach to utilizing AI to build other AI tools. This meta-AI strategy involves:
 
