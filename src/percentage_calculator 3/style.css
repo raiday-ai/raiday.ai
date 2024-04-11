@@ -1,0 +1,22 @@
+<style>
+        #calculateButton {
+            background-color: blue;
+            color: white;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+        #result3 {
+            padding: 5px;
+            border: 1px solid black;
+            display: inline-block;
+            min-width: 100px;
+            text-align: center;
+        }
+    </style>
+<style>
+    input[type="number"] {
+        width: 50px; /* Adjust the width as needed */
+    }
+</style>
