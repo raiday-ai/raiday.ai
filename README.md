@@ -2,11 +2,11 @@
 
 # Welcome to RAIDAY AI's Public GitHub Repository
 
-Welcome to the RAIDAY AI (Rapid AI DAta Yields) public GitHub repository! This space is dedicated to sharing a selection of our innovative code, all generated through advanced AI technologies. Our goal is to foster a community where developers and AI enthusiasts can explore, use, and contribute to AI-driven projects that have practical applications.
+Welcome to the RAIDAY AI (Rapid AI DAta Yields) public GitHub repository! This space is dedicated to sharing a selection of our innovative code, all generated through advanced AI technologies. Our goal is to foster a community where developers and AI enthusiasts can explore, use, and contribute to AI-driven projects that have practical applications. We mostly specialise in python and PHP coding.
 
 ## About RAIDAY AI
 
-RAIDAY AI leverages artificial intelligence to revolutionize the way we think about data processing and analysis. Our website, [RAIDAY AI](https://raiday.ai), serves as a testament to our commitment to AI-driven solutions, showcasing a variety of tools and applications that cater to diverse needs across industries. 
+RAIDAY AI leverages artificial intelligence to revolutionize the way we think about data processing and analysis. Our website, [RAIDAY AI](https://raiday.ai), serves as a testament to our commitment to AI-driven solutions, showcasing a variety of tools and applications that cater to diverse needs across industries. We also have another dedicated place for anyone willing to only consider and [try free ai tools](https://tryfree.ai).
 
 ### Our Philosophy
 
